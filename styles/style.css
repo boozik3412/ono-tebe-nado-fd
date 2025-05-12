@@ -5,7 +5,7 @@
   justify-items: center;
   align-items: center;
   font-size: 18px;
-  margin: 90px 0px 100px 0px;
+  margin: 88px 0px 100px 0px;
 }
 
 .logo-black {
@@ -21,7 +21,7 @@
 }
 
 .header-right-grid {
-  margin-left: 185px;
+  margin-left: 155px;
 }
 
 .adress {
@@ -65,7 +65,7 @@
   display: flex;
   justify-content: space-between;
   width: auto;
-  margin-top: 100px;
+  margin-top: 95px;
   margin-left: 50px;
   margin-right: 20px;
   z-index: 1001;
@@ -79,7 +79,7 @@
   width: 100%;
   flex-direction: column;
   justify-content: space-between;   
-  gap: 25px;
+  gap: 28px;
 }
 
 .cover-title-center {
@@ -220,7 +220,7 @@
 .about {
   margin-left: 24px;
   margin-right: 24px;
-  margin-top: 155px;
+  margin-top: 150px;
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 24px;
@@ -229,7 +229,7 @@
 
 .about__column {
   display: flex;
-  gap: 30px;
+  gap: 37px;
   flex-direction: column;
 }
 
