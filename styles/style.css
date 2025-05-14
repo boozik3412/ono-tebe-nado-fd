@@ -5,7 +5,7 @@
   justify-items: center;
   align-items: center;
   font-size: 18px;
-  margin: 88px 0px 100px 0px;
+  margin: 90px 0px 98px 0px;
 }
 
 .logo-black {
@@ -17,11 +17,11 @@
   display: flex;
   justify-content: flex-start;
   list-style: circle;
-  gap: 25px;
+  gap: 28px;
 }
 
 .header-right-grid {
-  margin-left: 145px;
+  margin-left: 142px;
 }
 
 .adress {
@@ -276,8 +276,12 @@
   justify-content: space-between;
   justify-items: center;
   align-items: start;
-  margin-top: 183px;
-  padding-bottom: 100px;
+  margin-top: 187px;
+  padding-bottom: 96px;
+}
+
+.footer-left-grid {
+  margin-right: 10px;
 }
 
 .footer__menu {
